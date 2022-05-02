@@ -2,6 +2,6 @@
 public class Calculator {
 
     public static int calculate(int x, int y){
-        return 0;
+        return x+y;
     }
 }
